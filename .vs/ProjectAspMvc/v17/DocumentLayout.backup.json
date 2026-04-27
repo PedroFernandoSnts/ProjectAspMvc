@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Guilherme Atividade\\ProjectAspMvc\\ProjectAspMvc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD34F1F-98E0-4EA2-B28F-3240CD7DA095}|ProjectAspMvc\\ProjectAspMvc.csproj|e:\\guilherme atividade\\projectaspmvc\\projectaspmvc\\projectaspmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD34F1F-98E0-4EA2-B28F-3240CD7DA095}|ProjectAspMvc\\ProjectAspMvc.csproj|solutionrelative:projectaspmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD34F1F-98E0-4EA2-B28F-3240CD7DA095}|ProjectAspMvc\\ProjectAspMvc.csproj|e:\\guilherme atividade\\projectaspmvc\\projectaspmvc\\projectaspmvc\\controllers\\feature-estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD34F1F-98E0-4EA2-B28F-3240CD7DA095}|ProjectAspMvc\\ProjectAspMvc.csproj|solutionrelative:projectaspmvc\\controllers\\feature-estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD34F1F-98E0-4EA2-B28F-3240CD7DA095}|ProjectAspMvc\\ProjectAspMvc.csproj|e:\\guilherme atividade\\projectaspmvc\\projectaspmvc\\projectaspmvc\\controllers\\feature-cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD34F1F-98E0-4EA2-B28F-3240CD7DA095}|ProjectAspMvc\\ProjectAspMvc.csproj|solutionrelative:projectaspmvc\\controllers\\feature-cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "feature-cidade.cs",
+              "DocumentMoniker": "E:\\Guilherme Atividade\\ProjectAspMvc\\ProjectAspMvc\\ProjectAspMvc\\Controllers\\feature-cidade.cs",
+              "RelativeDocumentMoniker": "ProjectAspMvc\\Controllers\\feature-cidade.cs",
+              "ToolTip": "E:\\Guilherme Atividade\\ProjectAspMvc\\ProjectAspMvc\\ProjectAspMvc\\Controllers\\feature-cidade.cs",
+              "RelativeToolTip": "ProjectAspMvc\\Controllers\\feature-cidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:51:15.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "feature-estado.cs",
+              "DocumentMoniker": "E:\\Guilherme Atividade\\ProjectAspMvc\\ProjectAspMvc\\ProjectAspMvc\\Controllers\\feature-estado.cs",
+              "RelativeDocumentMoniker": "ProjectAspMvc\\Controllers\\feature-estado.cs",
+              "ToolTip": "E:\\Guilherme Atividade\\ProjectAspMvc\\ProjectAspMvc\\ProjectAspMvc\\Controllers\\feature-estado.cs",
+              "RelativeToolTip": "ProjectAspMvc\\Controllers\\feature-estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:50:49.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Guilherme Atividade\\ProjectAspMvc\\ProjectAspMvc\\ProjectAspMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjectAspMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Guilherme Atividade\\ProjectAspMvc\\ProjectAspMvc\\ProjectAspMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjectAspMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:48:32.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
